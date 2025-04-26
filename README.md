@@ -7,7 +7,7 @@ Traditional Evidence storing system has these following flaws:
 ❌ Restricted Access & Gatekeeping – Victims, lawyers, and watchdog agencies often struggle to access crucial evidence, as it's controlled by a few authorities with no accountability.<br>
 ❌ Poor Inter-Agency Collaboration – Different law enforcement and judicial bodies operate in silos, leading to inefficiencies and delays in transferring or verifying evidence.<br>
 
-A Blockchain-Powered, Decentralized Evidence Management System
+# A Blockchain-Powered, Decentralized Evidence Management System
 
 ✅ Tamper-Proof Evidence Storage<br>
  Blockchain immutability ensures evidence cannot be altered, deleted, or forged—protecting against internal corruption and data manipulation.<br>
